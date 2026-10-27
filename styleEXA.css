@@ -1,0 +1,48 @@
+.titulo{
+    text-align: center;
+    color:rgba(85, 226, 127, 0.842);
+    font-size:50px;
+    font-family:Arial, Helvetica, sans-serif
+}
+.sub1{
+    text-align: center;
+    color:rgb(17, 17, 8);
+    font-size:20px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+.text1{
+    text-align: center;
+    color:rgba(255, 255, 255, 0.966);
+    font-size:20px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+.sub2{
+    text-align: center;
+    color:rgb(20, 12, 12);
+    font-size:20px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+.sub3{
+    text-align: center;
+    color:rgb(19, 8, 8);
+    font-size:20px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+.lista{
+    text-align: center;
+    color:rgba(255, 255, 255, 0.966);
+    font-size:20px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+.lista2{
+    text-align: center;
+    color:rgba(255, 255, 255, 0.966);
+    font-size:20px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}   
+body { background-color:rgba(0, 147, 233, 0.959) } 
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
